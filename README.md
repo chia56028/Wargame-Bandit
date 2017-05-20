@@ -13,7 +13,4 @@ Cyber-security challenge involving exploiting or defending a vulnerability in a 
 ## Preceding Operation
 Because the game's serval is in other place, we have to get into their server by using `ssh` to remote connection.
 * If you work in unix system, then it already has built-in `ssh`.
-* If you work in windows system, you must install `Putty` or `xshell`.
-
-
-
+* If you work in windows system, you must install `Putty` or `Xshell`.
