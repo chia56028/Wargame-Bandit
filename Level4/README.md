@@ -8,4 +8,5 @@ Level 3 → Level 4
 - Use `cd` then `ls -al` can see hide file
 
 ref.
+
 [An Easy Way to Hide Files and Directories in Linux](https://www.tecmint.com/hide-files-and-directories-in-linux/)
