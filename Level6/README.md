@@ -7,7 +7,7 @@ Level 4 → Level 5
 
 - Use `ls` can see more folder
 
-- Use `find . -type f -size 1033c` to check which file is text file
+- Use `find . -type f -size 1033c` to find files that meets the prompt
 
 - Use `cat` to output content
 
